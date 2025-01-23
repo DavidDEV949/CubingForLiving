@@ -7,3 +7,25 @@
 body{
     background-color: #121212;
 }
+
+a:link, a:visited{
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover h1{
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+a:active h1{
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    text-decoration: underline;
+    background-color: #466471;
+}
