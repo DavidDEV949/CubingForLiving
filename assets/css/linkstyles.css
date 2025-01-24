@@ -1,36 +1,18 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body{
-    background-color: #ffffff;
-}
-
-nav{
-    height: 10vh;
-    width: 100%;
-    line-height: 10vh;
-    background-color: #121212;
-    padding-left: 5vw;
-}
-
-#CFL_Title:link, #CFL_Title:visited{
+a:link, a:visited{
     font-size: 150%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ffffff;
     text-decoration: none;
 }
 
-#CFL_Title:hover{
+a:hover{
     font-size: 150%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ffffff;    
     text-decoration: underline;
 }
 
-#CFL_Title:active{
+a:active{
     font-size: 150%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ffffff;
@@ -38,7 +20,6 @@ nav{
     background-color: #466471;
 }
 
-h1{
-    display: inline;
-    padding-left: 0.5vw;
+#LinkNoUnderline{
+    text-decoration: none;
 }
