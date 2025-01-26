@@ -8,7 +8,7 @@ body{
     background-color: #ffffff;
 }
 
-nav{
+header{
     height: 10vh;
     width: 100%;
     line-height: 10vh;
@@ -17,21 +17,21 @@ nav{
 }
 
 #CFL_Title:link, #CFL_Title:visited{
-    font-size: 150%;
+    font-size: 125%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ffffff;
     text-decoration: none;
 }
 
 #CFL_Title:hover{
-    font-size: 150%;
+    font-size: 125%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ffffff;    
     text-decoration: underline;
 }
 
 #CFL_Title:active{
-    font-size: 150%;
+    font-size: 125%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ffffff;
     text-decoration: underline;
